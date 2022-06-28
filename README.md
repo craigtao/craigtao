@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @craigtao
+- 👋 Hi, I’m @craigtao, now I working for Elekta(EBMS Elekta China Beijing)
 - 👀 I’m interested in c++ industrial control area
 - 🌱 I’m currently learning design pattern and software engineering
 - 💞️ I’m looking to collaborate on ...
